@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hassanayo
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning ReactJs
+- 👀 I’m interested in Software Engineering, Language Engineering, Web Development
+- 🌱 I’m currently learning ReactJs, Rascal MPL
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me funyem1710@gmail.com 
 
